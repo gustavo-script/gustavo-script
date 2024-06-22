@@ -2,7 +2,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=header"/>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+GUSTAVO+FRANCO;TENHO+17+ANOS+DE+IDADE;ATUALMENTE+MORO+EM+CIDADE+GAÚCHA,+PARANÁ;SOU+ESTUDANTE+DE+TECNOLOGIA+E+CIBERSEGURANÇA;SEJA+MUITO+BEM+VINDO+AO+MEU+PERFIL!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+GUSTAVO;TENHO+17+ANOS+DE+IDADE;ATUALMENTE+MORO+EM+CIDADE+GAÚCHA,+PARANÁ;SOU+ESTUDANTE+DE+TECNOLOGIA+E+CIBERSEGURANÇA;SEJA+MUITO+BEM+VINDO+AO+MEU+PERFIL!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gustavo-script&show_icons=true&count_private=true&hide_border=true&title_color=ff0000&icon_color=ff0000&text_color=c9d1d9&bg_color=0d1117" alt="Gustavo Franco github stats" /> 
@@ -14,6 +14,9 @@
 <p align="center">
 <a href="https://www.instagram.com/gustavofr4nco/" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  <a href="https://www.linkedin.com/in/gustavod.franco/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 </div> 
  
 ### Estudando no momento:
